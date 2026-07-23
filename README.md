@@ -5,6 +5,7 @@
 - `agama_original.svg` — Original logo (black)
 - `agama_logo_green.svg` — Squircle icon (green + beige)
 - `agama_logo_circle.svg` — Circle icon (green + beige)
+- `agama_logo_mark_green.svg` — Brandmark only (green, transparent background)
 
 ## Colors
 
